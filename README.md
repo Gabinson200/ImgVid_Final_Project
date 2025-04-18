@@ -5,6 +5,7 @@
 **TinyML Person Detection and Attribute Recognition on ESP32-S3 Using the Wake Vision Dataset**  
 This project develops two TinyML models – one for binary person detection and one for multi-attribute recognition – trained on the [Wake Vision dataset](https://blog.tensorflow.org/2024/12/introducing-wake-vision-new-dataset-for-person-detection-in-tinyml.html). The optimized models are deployed on the Seeed Studio ESP32-S3 Sense board using TensorFlow Lite for Microcontrollers (TFLM).
 
+[main website](https://wakevision.ai/)
 ---
 
 ## Table of Contents
