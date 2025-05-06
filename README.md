@@ -10,20 +10,15 @@ This project develops two TinyML models – one for binary person detection and 
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
 - [Dataset Preparation](#dataset-preparation)
 - [Model Training](#model-training)
-  - [Binary Person Detection](#binary-person-detection)
-  - [Multi-Attribute Recognition](#multi-attribute-recognition)
+- [Binary Person Detection](#binary-person-detection)
 - [Model Optimization](#model-optimization)
 - [Deployment on ESP32-S3](#deployment-on-esp32-s3)
 - [Setup & Installation](#setup--installation)
 - [Contributing](#contributing)
-- [Resources & References](#resources--references)
-- [Project Team & Contacts](#project-team--contacts)
 ---
 
 ## Project Overview
