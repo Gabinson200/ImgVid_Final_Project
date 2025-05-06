@@ -8,19 +8,6 @@ This project develops two TinyML models – one for binary person detection and 
 [main website](https://wakevision.ai/)
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
-- [Dataset Preparation](#dataset-preparation)
-- [Model Training](#model-training)
-- [Binary Person Detection](#binary-person-detection)
-- [Model Optimization](#model-optimization)
-- [Deployment on ESP32-S3](#deployment-on-esp32-s3)
-- [Setup & Installation](#setup--installation)
-- [Contributing](#contributing)
----
-
 ## Project Overview
 
 This project aims to push the boundaries of TinyML by:
