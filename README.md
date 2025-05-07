@@ -22,9 +22,6 @@ This project aims to push the boundaries of TinyML by:
 ```plaintext
 tinyml-wakevision-project/
 ├── README.md                   <- This file
-├── data/                       <- Scripts and notes for dataset preparation and augmentation
-│   ├── download_wakevision.py
-│   └── augmentations.py
 ├── training/                   <- Python code for model training and evaluation
 │   ├── wakevision_person_detection.ipynb
 │   ├── wakevision_multi_attribute.ipynb
