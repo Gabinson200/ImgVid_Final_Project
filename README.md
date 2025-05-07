@@ -17,24 +17,4 @@ This project aims to push the boundaries of TinyML by:
 
 ---
 
-## Repository Structure
-
-```plaintext
-tinyml-wakevision-project/
-├── README.md                   <- This file
-├── training/                   <- Python code for model training and evaluation
-│   ├── wakevision_person_detection.ipynb
-│   ├── wakevision_multi_attribute.ipynb
-│   └── export_tflite.py
-├── models/                     <- Saved model artifacts
-│   ├── person_detect_float.tflite
-│   ├── person_detect_int8.tflite
-│   └── person_detect_model.h
-├── hardware/                    <- Embedded code for deployment
-│   ├── arduino_sketch.ino
-│   ├── model_data.h
-
-└── docs/                       <- Additional documentation and guides
-    └── setup_guide.md
-
 
